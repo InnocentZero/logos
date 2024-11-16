@@ -1,0 +1,14 @@
+"hello"
+"hell'o'"
+"sp\"a'm'"
+"`bar`"
+"ba`rrrr`"
+'hello\n'
+"hello\n"
+342521
+123.234
+`foo`
+`foo\n`
+`foo"bar"`
+`foo`
+
